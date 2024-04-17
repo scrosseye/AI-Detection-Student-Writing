@@ -12,3 +12,5 @@ All of the essays were written in response to one of seven essay prompts. In eac
 Essays from two of the prompts compose the training set; the remaining essays compose the hidden test set. Nearly all of the training set essays were written by students, with only a few generated essays given as examples. 
 
 We have also included the instructions for generating the AI generated essays (Instructions to recreate AI Generated Text Dataset.doc). A small number of the AI generated essays used in the actual competition are publicly available, but the majority of the AI generated essays cannot be released for proprietary reasons. The included instructions will allow interested parties to recreate the entire dataset used in the competition.
+
+The data is provided under a CC BY-NC-SA 4.0 DEED Attribution-NonCommercial-ShareAlike 4.0 International license (https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
